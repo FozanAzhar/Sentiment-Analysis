@@ -1,6 +1,11 @@
 # Sentiment-Analysis-Covid19-Tweets
 This is a classification model to predict the sentiment either (Positive or Negative) based on the Covid-19 Tweets
 
+
+<img src="https://media-exp1.licdn.com/dms/image/C5612AQERP5yD4Ov6Fw/article-cover_image-shrink_600_2000/0/1538479344425?e=1657756800&v=beta&t=rb8owj9F1l_ihQqufFhBKtuKVkXaTLOLlFFUXwTIIt4">
+
+
+
 ## Context: 
 The tweets have been pulled from Twitter and manual tagging has been done then.<br>
 The names and usernames have been given codes to avoid any privacy concerns.<br>
