@@ -2,7 +2,7 @@
 This is a classification model to predict the sentiment either (Positive or Negative) based on the Covid-19 Tweets
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C5612AQERP5yD4Ov6Fw/article-cover_image-shrink_600_2000/0/1538479344425?e=1657756800&v=beta&t=rb8owj9F1l_ihQqufFhBKtuKVkXaTLOLlFFUXwTIIt4">
+<img src="https://www.mdpi.com/applsci/applsci-11-10694/article_deploy/html/images/applsci-11-10694-g001.png">
 
 
 
